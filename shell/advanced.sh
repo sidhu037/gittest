@@ -1,0 +1,10 @@
+echo "kernel version :$(top)"
+echo "list of all shells :$(ps PID)"
+#echo "mouse setting :$(xinput --list --short)"
+#echo "cpu information :$(lscpu)"
+#echo "harddisk informaatio :$(sudo hdparm -I /dev/sda)"
+#echo "memory information :$(free -m)"
+#echo "file system mounts :$(cat /proc/mounts)"
+#echo "os version :$(uname -v)"
+#echo "Release no :$(uname -r)"
+
